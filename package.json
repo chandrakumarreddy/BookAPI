@@ -1,0 +1,27 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrakumarreddy/BookAPI.git"
+  },
+  "keywords": [
+    "booksapi",
+    "api",
+    "books"
+  ],
+  "author": "chandra kumar reddy penugonda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chandrakumarreddy/BookAPI/issues"
+  },
+  "homepage": "https://github.com/chandrakumarreddy/BookAPI#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
