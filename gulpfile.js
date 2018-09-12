@@ -7,6 +7,5 @@ gulp.task("default", function() {
 		ext: "js",
 		env: { PORT: 8000 },
 		ignore: ["./node_modules/**"]
-	})
-	.on: ("restart", () => console.log("Restarted"));
+	}).on("restart", () => console.log("Restarted"));
 });
